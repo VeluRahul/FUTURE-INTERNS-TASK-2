@@ -50,13 +50,13 @@ A **mini e-commerce web application** built as part of a Full Stack Web Developm
 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/VeluRahul/FUTURE-INTERNS-TASK-2
 ```
 
 2. Navigate to the project directory
 
 ```bash
-cd your-repo-name
+cd FUTURE-INTERNS-TASK-2
 ```
 
 3. Install dependencies
@@ -83,12 +83,6 @@ npm start
 
 ---
 
-## 📸 Screenshots
-
-*Add screenshots of your application here*
-
----
-
 ## 🌱 Future Improvements
 
 * User authentication (JWT / Firebase Auth)
@@ -96,10 +90,4 @@ npm start
 * Admin dashboard for product management
 * Order history & tracking
 
----
-
-## 🙌 Acknowledgements
-
-* React Documentation
-* Open-source community
 ---
