@@ -31,19 +31,6 @@ A **mini e-commerce web application** built as part of a Full Stack Web Developm
 * MongoDB / Firebase / PostgreSQL
 
 ---
-
-## 📂 Project Structure
-
-```bash
-├── src
-│   ├── components
-│   ├── pages
-│   ├── context / store
-│   ├── assets
-│   └── App.jsx
-├── public
-├── package.json
-└── README.md
 ```
 ## ⚙️ Installation & Setup
 
