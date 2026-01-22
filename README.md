@@ -31,7 +31,7 @@ A **mini e-commerce web application** built as part of a Full Stack Web Developm
 * MongoDB / Firebase / PostgreSQL
 
 ---
-```
+
 ## ⚙️ Installation & Setup
 
 1. Clone the repository
